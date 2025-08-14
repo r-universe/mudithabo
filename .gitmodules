@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "IFTPredictor"]
 	path = IFTPredictor
-	url = https://github.com/cran/IFTPredictor
+	url = https://github.com/mudithabo/iftpredictor
